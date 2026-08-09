@@ -12,8 +12,8 @@ Desarrollar e integrar mejoras funcionales sobre una base de código compartida,
     - Gestión básica de entrada y salida de datos.
 - **Aporte del Estudiante 1 (Renato Villacís):**
     - Implementación de la clase `ConversorMasa.java` para conversiones entre Kilogramos, Gramos, Libras y Onzas.
-- **Aporte del Estudiante 2 (Zamir Gordón):**
-    - Implementación de la clase de conversión de unidades de longitud (Metros, Centímetros, Kilómetros y Milímetros) e integración de validación de datos de entrada.
+- **Aporte del Estudiante 2 (Anderson Freire):**
+    - Implementación del conversor de unidades de longitud (Metros, Centímetros, Kilómetros y Milímetros) e integración de validación de datos de entrada.
 
 ## Tecnologías Utilizadas
 - **Lenguaje de programación:** Java (JDK 17)
