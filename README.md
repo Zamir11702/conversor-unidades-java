@@ -26,3 +26,10 @@ Desarrollar e integrar mejoras funcionales sobre una base de código compartida,
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/Zamir11702/conversor-unidades.git](https://github.com/Zamir11702/conversor-unidades.git)
+   ## Integrantes
+
+| Integrante | Rol | Aporte Principal | Rama Utilizada |
+|---|---|---|---|
+| Zamir Gordón | Propietario / Estudiante 1 | Arquitectura base, menú principal e integración | `main` |
+| Renato Villacís | Colaborador / Estudiante 2 | Conversor de unidades de masa (`ConversorMasa.java`) | `feature/conversor-masa` |
+| Anderson Freire | Colaborador / Estudiante 3 | Conversor de unidades de longitud y validaciones | `conversor-unidades/Anderson-Freire-aporte-3` |
